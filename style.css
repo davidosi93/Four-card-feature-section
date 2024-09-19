@@ -40,6 +40,13 @@ span {
   color: #a3a5ae;
 }
 
+.card-container {
+  width: 100%;
+}
+
+.card-vertical {
+}
+
 .card {
   max-width: 24.5rem;
   height: 14.75rem;
